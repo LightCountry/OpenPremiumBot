@@ -3,12 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenPremiumBot", "OpenPremiumBot\OpenPremiumBot.csproj", "{2809C2B2-CCDF-4BAD-9C2C-06174F55CF21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenPremiumBot", "OpenPremiumBot\OpenPremiumBot.csproj", "{2809C2B2-CCDF-4BAD-9C2C-06174F55CF21}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决方案项", "{C71A222C-DFE8-457E-8D31-EE0FAE8EE5F0}"
 	ProjectSection(SolutionItems) = preProject
 		.gitattributes = .gitattributes
 		.gitignore = .gitignore
+		LICENSE.txt = LICENSE.txt
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global
